@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">The Super Simple Step Counter</string>
+    <string name="StepsSinceLastReset">Skritt siden siste restart</string>
+</resources>
